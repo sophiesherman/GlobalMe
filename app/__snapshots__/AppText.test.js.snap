@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppText renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": undefined,
+        "fontFamily": "Avenir Next",
+      },
+      undefined,
+    ]
+  }
+>
+   
+   
+</Text>
+`;

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MajorProject",
-    "slug": "MajorProject",
+    "name": "Travelry Major Project",
+    "slug": "travelapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This app is a travel app for users to have an account, post their favourite restaurants, places to visit, stay and things to do in different cities. It is a journal for users to remember their experiences, as well as being able to browse the explore page to view other user's recommendations!\n\nThe app currently supports the major cities within Australia and I am looking forward to continuing to develop further features such as following, liking, favouriting! They will be coming soon :)\n\nHope you enjoy using my first ever mobile application!\n\n** IOS is preferred for this application\n** Please sign in using one of the following or feel free to create a new account\n\n    - username: jane\n    - password 1234\n\n    - username: john\n    - password 1234"
   }
 }
